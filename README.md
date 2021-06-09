@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am huzaifah.
 and one day I will add more things in this README.md  
+almost all of my public projects are incomplete, hopefully I will get to them one day as well  
+
 
 <!-- ### About Me:
 🌱 I’m currently learning ( or procrastinating about it ) : Chemistry, Biology and ReactJS
